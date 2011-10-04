@@ -1,0 +1,5 @@
+C:\Users\yana\documents\visual studio 2010\Projects\SimpleMCMain1\SimpleMCMain1\bin\Debug\SimpleMCMain1.exe
+C:\Users\yana\documents\visual studio 2010\Projects\SimpleMCMain1\SimpleMCMain1\bin\Debug\SimpleMCMain1.pdb
+C:\Users\yana\documents\visual studio 2010\Projects\SimpleMCMain1\SimpleMCMain1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\yana\documents\visual studio 2010\Projects\SimpleMCMain1\SimpleMCMain1\obj\x86\Debug\SimpleMCMain1.exe
+C:\Users\yana\documents\visual studio 2010\Projects\SimpleMCMain1\SimpleMCMain1\obj\x86\Debug\SimpleMCMain1.pdb
